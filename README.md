@@ -23,6 +23,14 @@ Bienvenido a mi perfil. Soy un apasionado del desarrollo de software con interé
 ![DOCKER](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![EXCEL](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+## 📚 Certificaciones Principales
+
+- **Responsive Web Design** – freeCodeCamp (2024)  
+- **Scrum Foundation Professional Certification (SFP)** – KadaSoftware (2024)  
+- **Introduction to MongoDB** – MongoDB (2024)  
+- **Innovación – Microsoft Office 365, Excel** – GRUPO EDUIT (2023)  
+
+
 ## 📬 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/iskander-emilio-mercader-olivares-870971267/)
