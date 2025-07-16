@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Iskander Emilio Mercader Olivares
 
-Bienvenido a mi perfil. Soy un apasionado del desarrollo de software con interés en soluciones empresariales, metodologías ágiles y tecnologías modernas. Me especializo en el desarrollo backend con Java y Spring Boot, aunque también tengo experiencia en bases de datos relacionales y no relacionales, así como herramientas de automatización y control de versiones.
-🎓 Estudiante de Ingeniería de Software | 💻 Desarrollador enfocado en Java y Web
+🎓 Estudiante de Ingeniería de Software en la Universidad Veracruzana | 💻 Desarrollador enfocado en Java y Desarrollo Web
 
 ## 💻 Tecnologías que uso
 
@@ -23,13 +22,33 @@ Bienvenido a mi perfil. Soy un apasionado del desarrollo de software con interé
 ![DOCKER](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![EXCEL](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+## 💼 Proyectos destacados
+
+🥽 Dilettanti (2024)
+- Aplicación VR para MetaQuest 2 enfocada en la exploración de sitios arqueológicos de México
+- Desarrollada en Unreal Engine 5
+- 1° lugar en la Categoría de Base Tecnológica en la XXXIV Feria de Emprendedores regional ANFECA
+- Enlace Código: https://github.com/ThonnyRG/Anfeca
+- Enlace Diseño: https://github.com/IskanderM08/DilettantiDesign
+- Enlace Blueprints: https://github.com/ThonnyRG/DileTanttiBluePrints
+
+🌐 Página web de EYCOmx (2024)
+- Página web de la empresa de diseño gráfico EYCOmx  enfocada en la visualización de su portafolio
+- Desarrollada con HTML, CSS y JavaScript, desplegada con Vercel
+- Enlace: https://github.com/IskanderM08/proyectoweb-eycomx-
+- Enlace Despliegue: https://proyectoweb-eycomx.vercel.app/
+
+📄 Cluster Analysis in the Identification of Patterns in Software Development with Agile Methodologies: A Systematic Literature Review (2024)
+- Revisión sistemática de la literatura sobre el uso de algoritmos de Clustering en la identificación de patrones en el desarrollo de software con metodologías ágiles 
+- Presentada en la 12ª Conferencia Internacional sobre Investigación e Innovación en Ingeniería de Software (CONISOFT 2024)
+- Enlace: https://ieeexplore.ieee.org/document/10795521
+
 ## 📚 Certificaciones Principales
 
 - **Responsive Web Design** – freeCodeCamp (2024)  
 - **Scrum Foundation Professional Certification (SFP)** – KadaSoftware (2024)  
 - **Introduction to MongoDB** – MongoDB (2024)  
-- **Innovación – Microsoft Office 365, Excel** – GRUPO EDUIT (2023)  
-
+- **Innovación – Microsoft Office 365, Excel** – GRUPO EDUIT (2023)
 
 ## 📬 Contacto
 
