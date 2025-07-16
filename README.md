@@ -43,6 +43,19 @@
 - Presentada en la 12ª Conferencia Internacional sobre Investigación e Innovación en Ingeniería de Software (CONISOFT 2024)
 - Enlace: https://ieeexplore.ieee.org/document/10795521
 
+## 💼 Otros Proyectos
+
+📒 Libreta de Direcciones (2023)
+- Proyecto de POO que simula la funcionalidad de una agenda de usuarios
+- Desarollada en Java
+- Enlace: https://github.com/IskanderM08/LibretaDirecciones
+
+🏧 Simulador Cajero Banamex (2023)
+- Proyecto de Enterprise Architect que simula el funcionamiento de un cajero de la empresa Banamex mediante distintos artefactos
+- Únicamente abarca la fase de Requerimientos y Diseño
+- Enlace: https://github.com/IskanderM08/CajeroBanamex
+
+
 ## 📚 Certificaciones Principales
 
 - **Responsive Web Design** – freeCodeCamp (2024)  
